@@ -17,10 +17,9 @@
 
 Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Machbarkeit dieser in jeweils 45' am einfachsten beweisen?
 
-- [ ] *make or break feature* 1: Man soll seine eigenen Fahrzeuge hinzufügen
-- [ ] _falls genug zeit, kann man noch ein Bild zu seinem Motorradhinzufügen_
-- [ ] *make or break feature* 2:
-- [ ] *make or break feature* 3:
+- [ ] *make or break feature* 1: Man soll seine Motorräder hinzufügen können, also die CRUD Operationen verwenden (Create, Read, Update, Delete)
+- [ ] *make or break feature* 2: Man soll einen Service Eintrag zu seinem Motorrad machen können, also wann der letzte Ölwechsel oder Reifenwechsel war, Kilometerstand und Beschreibung zum Motorrad.
+- [ ] *make or break feature* 3: Man soll einen Account erstellen können und sich danach anmelden können. Und wenn man sich wieder anmeldet sollen alle Motorräder die letztes mal hinzugefügt wurden wieder aufrufen können.
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
