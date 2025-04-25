@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "MotorcycleController",
+    "Method": "GetAlle",
+    "RelativePath": "api/Motorcycle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotorcycleController",
+    "Method": "Erstellen",
+    "RelativePath": "api/Motorcycle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "motorcycle",
+        "Type": "MotoLogPrototyp.Models.Motorcycle",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceEntryController",
+    "Method": "Erstellen",
+    "RelativePath": "api/ServiceEntry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entry",
+        "Type": "MotoLogPrototyp.Models.ServiceEntry",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ServiceEntryController",
+    "Method": "GetFuerMotorrad",
+    "RelativePath": "api/ServiceEntry/{motorradId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "motorradId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
