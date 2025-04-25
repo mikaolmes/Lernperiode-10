@@ -10,7 +10,8 @@
 3. Welche Datenbank-Technologie möchten Sie üben? Fühlen Sie sich sicher mit SQL und möchten etwas Neues ausprobieren; oder möchten Sie sich weiter mit SQL beschäftigen?
   - SQL Datenbank
 4. Was wäre ein geeignetes Abschluss-Projekt?
-  - 
+  - MotoLog
+  - Webseite wo man seine Motorräder hinzufügen kann oder wann die letzte Wartung war.
 
 ## 25.4
 
