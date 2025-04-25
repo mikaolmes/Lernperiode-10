@@ -5,8 +5,12 @@
 ## Grob-Planung
 
 1. Welche Programmiersprache möchten Sie verwenden? Was denken Sie, wo Ihre Zeit und Übung am sinnvollsten ist?
-1. Welche Datenbank-Technologie möchten Sie üben? Fühlen Sie sich sicher mit SQL und möchten etwas Neues ausprobieren; oder möchten Sie sich weiter mit SQL beschäftigen?
-1. Was wäre ein geeignetes Abschluss-Projekt?
+  - C#
+  - js
+3. Welche Datenbank-Technologie möchten Sie üben? Fühlen Sie sich sicher mit SQL und möchten etwas Neues ausprobieren; oder möchten Sie sich weiter mit SQL beschäftigen?
+  - SQL Datenbank
+4. Was wäre ein geeignetes Abschluss-Projekt?
+  - 
 
 ## 25.4
 
