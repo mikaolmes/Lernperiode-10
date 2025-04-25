@@ -1,29 +1,49 @@
 [
   {
-    "ContainingType": "MotorcycleController",
-    "Method": "GetAlle",
+    "ContainingType": "MotoLogPrototyp.Controllers.MotorcycleController",
+    "Method": "GetAll",
     "RelativePath": "api/Motorcycle",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MotoLogPrototyp.Models.Motorcycle, MotoLogPrototyp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
-    "ContainingType": "MotorcycleController",
-    "Method": "Erstellen",
-    "RelativePath": "api/Motorcycle",
-    "HttpMethod": "POST",
+    "ContainingType": "MotoLogPrototyp.Controllers.MotorcycleController",
+    "Method": "GetMotorcycle",
+    "RelativePath": "api/Motorcycle/{id}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "motorcycle",
-        "Type": "MotoLogPrototyp.Models.Motorcycle",
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "MotoLogPrototyp.Models.Motorcycle",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "ServiceEntryController",

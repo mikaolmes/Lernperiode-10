@@ -89,3 +89,4 @@ C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\re
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.pdb
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.genruntimeconfig.cache
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\ref\MotoLogPrototyp.dll
+C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.sourcelink.json

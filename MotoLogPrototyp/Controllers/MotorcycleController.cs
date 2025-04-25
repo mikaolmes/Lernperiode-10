@@ -1,30 +1,39 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MotoLogPrototyp.Models;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
-[ApiController]
-[Route("api/[controller]")]
-public class MotorcycleController : ControllerBase
+namespace MotoLogPrototyp.Controllers
 {
-    private readonly MotoLogDbContext _context;
-
-    public MotorcycleController(MotoLogDbContext context)
+    [Route("api/[controller]")]
+    [ApiController]
+    public class MotorcycleController : ControllerBase
     {
-        _context = context;
-    }
+        private readonly MotoLogDbContext _context;
 
-    [HttpGet]
-    public async Task<IActionResult> GetAlle()
-    {
-        var motorraeder = await _context.Motorcycles.ToListAsync();
-        return Ok(motorraeder);
-    }
+        public MotorcycleController(MotoLogDbContext context)
+        {
+            _context = context;
+        }
 
-    [HttpPost]
-    public async Task<IActionResult> Erstellen(Motorcycle motorcycle)
-    {
-        _context.Motorcycles.Add(motorcycle);
-        await _context.SaveChangesAsync();
-        return CreatedAtAction(nameof(GetAlle), new { id = motorcycle.Id }, motorcycle);
+        // GET: api/Motorcycle  
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Motorcycle>>> GetAll()
+        {
+            return await _context.Motorcycles.ToListAsync();
+        }
+
+        // GET: api/Motorcycle/5  
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Motorcycle>> GetMotorcycle(int id)
+        {
+            var motorcycle = await _context.Motorcycles.FindAsync(id);
+            if (motorcycle == null)
+            {
+                return NotFound();
+            }
+            return motorcycle;
+        }
     }
 }
