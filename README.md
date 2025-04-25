@@ -22,7 +22,7 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
 - [ ] *make or break feature* 3: Man soll einen Account erstellen können und sich danach anmelden können. Und wenn man sich wieder anmeldet sollen alle Motorräder die letztes mal hinzugefügt wurden wieder aufrufen können.
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mein Projekt gefunden und auch die Exploration bzw. den Prototyp gestartet. Ich habe das Backend aufgesetzt und kann es auch schon starten, jedoch kann ich noch keine CRUD-Operationen verwenden, ich bekomme lediglich einen Fehlercode, diesen muss ich das nächste mal beheben. (44 Wörter)
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen. Ggf. bietet es sich an, für die Code-Schnipsel einen eigenen Ordner `exploration` zu erstellen.
 
