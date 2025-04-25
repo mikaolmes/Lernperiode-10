@@ -17,7 +17,8 @@
 
 Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Machbarkeit dieser in jeweils 45' am einfachsten beweisen?
 
-- [ ] *make or break feature* 1:
+- [ ] *make or break feature* 1: Man soll seine eigenen Fahrzeuge hinzufügen
+- [ ] falls genug zeit, kann man noch ein Bild zu seinem Motorradhinzufügen
 - [ ] *make or break feature* 2:
 - [ ] *make or break feature* 3:
 
