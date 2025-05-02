@@ -32,7 +32,7 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 
 - [X] Wie repariere ich den Fehlercode (GET-Operationen) --> recherchieren wie ich die CRUD-Operationen richtig implementiere
 - [ ] Allgemeines Grundgerüst des Frontends bauen (Header, Footer, Aside...)
-- [ ] Welhe Funktionen soll es noch geben, weitere Features suchen die zur Webseite passen könnten --> Exploration
+- [X] Welche Funktionen soll es noch geben, weitere Features suchen die zur Webseite passen könnten --> Exploration
 - [X] Gedanken über das Frontend machen, auf Papier skizieren (📵)
 
 ✍️ Heute habe ich... (50-100 Wörter)
