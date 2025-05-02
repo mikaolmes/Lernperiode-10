@@ -51,7 +51,8 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 
 - [ ] Allgemeines Grundgerüst der Webseite (Frontend) Aufbauen
 - [ ] Farben die ich für die Webseite benutzen möchte raussuchen und implementiern in einem passenden Design
-- [ ] Login/Regristrierung implementieren und dafür die Login.html Seite anfangen zu bauen.
+- [ ] Login/Regristrierung implementieren
+- [ ] Login.html Seite anfangen zu bauen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
