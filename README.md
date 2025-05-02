@@ -35,7 +35,7 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 - [X] Welche Funktionen soll es noch geben, weitere Features suchen die zur Webseite passen könnten --> Exploration
 - [X] Gedanken über das Frontend machen, auf Papier skizieren (📵)
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich Alle Crud Operationen implementiert, dazu gehören die GET, POST, PUT und die DELETE Operation. Diese habe ich auch schon getestet und es hat funktioniert. Und während dem Offline-Arbeitspaket habe ich mir noch gedanken über weitere Features geamcht und ebenfalls für ein Aussehen eines Frontends das zu diesem Backend passen würde, nächstes mal Probiere ich schon die erste Webseite zu bauen. (64 Wörter)
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
@@ -43,15 +43,15 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 
 Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen realisiert ist. Schreiben Sie dazu zunächst 3 solche übergeordneten Kern-Funktionalitäten auf: 
 
-1. Kern-Funktionalität
-2. Kern-Funktionalität
-3. Kern-Funktionalität
+1. Kern-Funktionalität: Man soll Motorräder mithilfe der CRUD-Operationen hinzufügen können
+2. Kern-Funktionalität: Man soll Service Einträge mithilfe der Crud-Operationen hinzufügen können, diese auch mit einem Motorrad verbinden (Bei welchem Motorrad wurde der Service vorgenommen)
+3. Kern-Funktionalität: Login + Regristrierung auf der Webseite.
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Allgemeines Grundgerüst der Webseite (Frontend) Aufbauen
+- [ ] Farben die ich für die Webseite benutzen möchte raussuchen und implementiern in einem passenden Design
+- [ ] Login/Regristrierung implementieren und dafür die Login.html Seite anfangen zu bauen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
