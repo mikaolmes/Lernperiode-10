@@ -3,56 +3,48 @@
   "WorkspaceRootPath": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\models\\motologdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\models\\motologdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\controllers\\motorcyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\controllers\\motorcyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\models\\serviceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\models\\serviceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\models\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\controllers\\motorcyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\controllers\\motorcyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\models\\motorcycles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\models\\motorcycles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\controllers\\serviceentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\controllers\\serviceentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\motologprototyp.frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\motologprototyp.frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\models\\serviceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\models\\serviceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\motologprototyp.frontend\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\motologprototyp.frontend\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\models\\motologdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\models\\motologdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\motologprototyp.frontend\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\motologprototyp.frontend\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\motologprototyp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\motologprototyp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\obj\\Debug\\net8.0\\MotoLogPrototyp.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MotoLogPrototyp\\obj\\Debug\\net8.0\\MotoLogPrototyp.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,46 +77,82 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "MotoLogPrototyp\\wwwroot\\styles.css",
+              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\styles.css",
+              "RelativeToolTip": "MotoLogPrototyp\\wwwroot\\styles.css",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-02T14:14:12.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "MotoLogPrototyp\\wwwroot\\script.js",
+              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",
+              "RelativeToolTip": "MotoLogPrototyp\\wwwroot\\script.js",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwHEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-02T14:13:59.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "MotoLogPrototyp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\index.html",
+              "RelativeToolTip": "MotoLogPrototyp\\wwwroot\\index.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwEEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-02T11:55:56.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\appsettings.json",
+              "RelativeDocumentMoniker": "MotoLogPrototyp\\appsettings.json",
+              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\appsettings.json",
+              "RelativeToolTip": "MotoLogPrototyp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T11:15:23.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ModelBuilderExtension.cs",
               "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\ModelBuilderExtension.cs",
               "RelativeDocumentMoniker": "MotoLogPrototyp\\Models\\ModelBuilderExtension.cs",
               "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\ModelBuilderExtension.cs",
               "RelativeToolTip": "MotoLogPrototyp\\Models\\ModelBuilderExtension.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T14:02:59.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Program.cs",
               "RelativeDocumentMoniker": "MotoLogPrototyp\\Program.cs",
               "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Program.cs",
               "RelativeToolTip": "MotoLogPrototyp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T13:59:47.837Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MotoLogPrototyp.GlobalUsings.g.cs",
-              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\obj\\Debug\\net8.0\\MotoLogPrototyp.GlobalUsings.g.cs",
-              "RelativeDocumentMoniker": "MotoLogPrototyp\\obj\\Debug\\net8.0\\MotoLogPrototyp.GlobalUsings.g.cs",
-              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\obj\\Debug\\net8.0\\MotoLogPrototyp.GlobalUsings.g.cs",
-              "RelativeToolTip": "MotoLogPrototyp\\obj\\Debug\\net8.0\\MotoLogPrototyp.GlobalUsings.g.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:45:47.235Z"
             },
             {
               "$type": "Document",
@@ -134,122 +162,62 @@
               "RelativeDocumentMoniker": "MotoLogPrototyp\\Controllers\\ServiceEntryController.cs",
               "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Controllers\\ServiceEntryController.cs",
               "RelativeToolTip": "MotoLogPrototyp\\Controllers\\ServiceEntryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwGIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T12:40:49.533Z"
+              "WhenOpened": "2025-04-25T12:40:49.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "MotoLogDbContext.cs",
               "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\MotoLogDbContext.cs",
               "RelativeDocumentMoniker": "MotoLogPrototyp\\Models\\MotoLogDbContext.cs",
               "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\MotoLogDbContext.cs",
               "RelativeToolTip": "MotoLogPrototyp\\Models\\MotoLogDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T12:40:14.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ServiceEntry.cs",
               "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\ServiceEntry.cs",
               "RelativeDocumentMoniker": "MotoLogPrototyp\\Models\\ServiceEntry.cs",
               "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\ServiceEntry.cs",
               "RelativeToolTip": "MotoLogPrototyp\\Models\\ServiceEntry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T12:39:50.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MotorcycleController.cs",
               "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Controllers\\MotorcycleController.cs",
               "RelativeDocumentMoniker": "MotoLogPrototyp\\Controllers\\MotorcycleController.cs",
               "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Controllers\\MotorcycleController.cs",
               "RelativeToolTip": "MotoLogPrototyp\\Controllers\\MotorcycleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T12:38:57.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Motorcycle.cs",
-              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\Motorcycle.cs",
-              "RelativeDocumentMoniker": "MotoLogPrototyp\\Models\\Motorcycle.cs",
-              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\Motorcycle.cs",
-              "RelativeToolTip": "MotoLogPrototyp\\Models\\Motorcycle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Motorcycles.cs",
+              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\Motorcycles.cs",
+              "RelativeDocumentMoniker": "MotoLogPrototyp\\Models\\Motorcycles.cs",
+              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\Models\\Motorcycles.cs",
+              "RelativeToolTip": "MotoLogPrototyp\\Models\\Motorcycles.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T12:38:33.908Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "script.js",
-              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\MotoLogPrototyp.Frontend\\script.js",
-              "RelativeDocumentMoniker": "MotoLogPrototyp\\MotoLogPrototyp.Frontend\\script.js",
-              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\MotoLogPrototyp.Frontend\\script.js",
-              "RelativeToolTip": "MotoLogPrototyp\\MotoLogPrototyp.Frontend\\script.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-25T12:37:04.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\MotoLogPrototyp.Frontend\\styles.css",
-              "RelativeDocumentMoniker": "MotoLogPrototyp\\MotoLogPrototyp.Frontend\\styles.css",
-              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\MotoLogPrototyp.Frontend\\styles.css",
-              "RelativeToolTip": "MotoLogPrototyp\\MotoLogPrototyp.Frontend\\styles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-25T12:36:40.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\MotoLogPrototyp.Frontend\\index.html",
-              "RelativeDocumentMoniker": "MotoLogPrototyp\\MotoLogPrototyp.Frontend\\index.html",
-              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\MotoLogPrototyp.Frontend\\index.html",
-              "RelativeToolTip": "MotoLogPrototyp\\MotoLogPrototyp.Frontend\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-25T12:36:27.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\appsettings.json",
-              "RelativeDocumentMoniker": "MotoLogPrototyp\\appsettings.json",
-              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\appsettings.json",
-              "RelativeToolTip": "MotoLogPrototyp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-25T12:26:16.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MotoLogPrototyp.csproj",
-              "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\MotoLogPrototyp.csproj",
-              "RelativeDocumentMoniker": "MotoLogPrototyp\\MotoLogPrototyp.csproj",
-              "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\MotoLogPrototyp.csproj",
-              "RelativeToolTip": "MotoLogPrototyp\\MotoLogPrototyp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-25T12:26:09.526Z"
             }
           ]
         }

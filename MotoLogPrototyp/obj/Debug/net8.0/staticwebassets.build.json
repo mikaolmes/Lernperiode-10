@@ -1,12 +1,331 @@
 {
   "Version": 1,
-  "Hash": "Z/NO9zfI6GA/D5NRwxOGTRmT4xUkbbsDzNaPeZDKivk=",
+  "Hash": "TxWdFNONx6PP8OSQUdJo6RLJDEimp1xDX6T+JeVWDdA=",
   "Source": "MotoLogPrototyp",
   "BasePath": "_content/MotoLogPrototyp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "MotoLogPrototyp\\wwwroot",
+      "Source": "MotoLogPrototyp",
+      "ContentRoot": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\",
+      "BasePath": "_content/MotoLogPrototyp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\index.html",
+      "SourceId": "MotoLogPrototyp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\",
+      "BasePath": "_content/MotoLogPrototyp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3d37hbxhk2",
+      "Integrity": "xxkNUhr3afxlIEIsNrojbslWfcEGo0c3K67mKE19yWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",
+      "SourceId": "MotoLogPrototyp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\",
+      "BasePath": "_content/MotoLogPrototyp",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bjw6jtbz3z",
+      "Integrity": "N+HnOR7ldtkNY2gBBMeGLn0T4+mFZFpV/JGGZeOBAdI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\styles.css",
+      "SourceId": "MotoLogPrototyp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\",
+      "BasePath": "_content/MotoLogPrototyp",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "07q5m36at8",
+      "Integrity": "3LVNcL3LvBgwYO4sN5U7BBjIJifbnAwhBqoAEw1dJjU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.3d37hbxhk2.html",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xxkNUhr3afxlIEIsNrojbslWfcEGo0c3K67mKE19yWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 14:14:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3d37hbxhk2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xxkNUhr3afxlIEIsNrojbslWfcEGo0c3K67mKE19yWY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xxkNUhr3afxlIEIsNrojbslWfcEGo0c3K67mKE19yWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 14:14:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xxkNUhr3afxlIEIsNrojbslWfcEGo0c3K67mKE19yWY="
+        }
+      ]
+    },
+    {
+      "Route": "script.bjw6jtbz3z.js",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+HnOR7ldtkNY2gBBMeGLn0T4+mFZFpV/JGGZeOBAdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 14:14:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bjw6jtbz3z"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+HnOR7ldtkNY2gBBMeGLn0T4+mFZFpV/JGGZeOBAdI="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N+HnOR7ldtkNY2gBBMeGLn0T4+mFZFpV/JGGZeOBAdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 14:14:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N+HnOR7ldtkNY2gBBMeGLn0T4+mFZFpV/JGGZeOBAdI="
+        }
+      ]
+    },
+    {
+      "Route": "styles.07q5m36at8.css",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3LVNcL3LvBgwYO4sN5U7BBjIJifbnAwhBqoAEw1dJjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 14:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "07q5m36at8"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3LVNcL3LvBgwYO4sN5U7BBjIJifbnAwhBqoAEw1dJjU="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2098"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3LVNcL3LvBgwYO4sN5U7BBjIJifbnAwhBqoAEw1dJjU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 02 May 2025 14:14:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3LVNcL3LvBgwYO4sN5U7BBjIJifbnAwhBqoAEw1dJjU="
+        }
+      ]
+    }
+  ]
 }

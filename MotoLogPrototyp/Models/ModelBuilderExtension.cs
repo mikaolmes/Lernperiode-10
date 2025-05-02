@@ -7,8 +7,8 @@ namespace MotoLogPrototyp
     {
         public static void Seed(this ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Motorcycle>().HasData(
-                new Motorcycle
+            modelBuilder.Entity<Motorcycles>().HasData(
+                new Motorcycles
                 {
                     Id = 1,
                     Name = "Ducati Panigale V4",
@@ -18,7 +18,7 @@ namespace MotoLogPrototyp
                     cc = 1103,
                     Price = 25000
                 },
-                new Motorcycle
+                new Motorcycles
                 {
                     Id = 2,
                     Name = "Kawasaki Ninja H2",
@@ -28,7 +28,7 @@ namespace MotoLogPrototyp
                     cc = 998,
                     Price = 30000
                 },
-                new Motorcycle
+                new Motorcycles
                 {
                     Id = 3,
                     Name = "BMW S1000RR",
@@ -38,7 +38,7 @@ namespace MotoLogPrototyp
                     cc = 999,
                     Price = 20000
                 },
-                new Motorcycle
+                new Motorcycles
                 {
                     Id = 4,
                     Name = "Yamaha YZF-R1",

@@ -17,4 +17,10 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\index.html" />
+    <None Include="wwwroot\script.js" />
+    <None Include="wwwroot\styles.css" />
+  </ItemGroup>
+
 </Project>

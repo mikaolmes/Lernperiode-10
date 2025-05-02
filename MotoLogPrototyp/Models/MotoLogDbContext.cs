@@ -4,15 +4,26 @@ namespace MotoLogPrototyp.Models
 {
     public class MotoLogDbContext : DbContext
     {
-        public MotoLogDbContext(DbContextOptions<MotoLogDbContext> options) : base(options) { }
-
-        public DbSet<Motorcycle> Motorcycles { get; set; }
+        public DbSet<Motorcycles> Motorcycles { get; set; }
         public DbSet<ServiceEntry> ServiceEntries { get; set; }
+
+        public MotoLogDbContext(DbContextOptions<MotoLogDbContext> options)
+            : base(options)
+        {
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.Seed(); // Call the extension method to seed data
+
+            modelBuilder.Entity<Motorcycles>()
+                .HasMany(m => m.ServiceEntries)
+                .WithOne(s => s.Motorcycle)
+                .HasForeignKey(s => s.MotorcycleId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+
+            modelBuilder.Seed();
         }
     }
 }

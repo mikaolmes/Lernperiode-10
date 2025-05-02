@@ -1,9 +1,8 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "MotoLog API",
-    "description": "API for motorcycle services management",
-    "version": "v1"
+    "title": "MotoLogPrototyp",
+    "version": "1.0"
   },
   "paths": {
     "/api/Motorcycle": {
@@ -13,33 +12,36 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/Motorcycle"
-                  }
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/Motorcycle"
-                  }
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/Motorcycle"
-                  }
-                }
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Motorcycle"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Motorcycles"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Motorcycles"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Motorcycles"
               }
             }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }
@@ -62,36 +64,57 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/Motorcycle"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Motorcycle"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Motorcycle"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
-      }
-    },
-    "/api/ServiceEntry/{motorradId}": {
-      "get": {
+      },
+      "put": {
         "tags": [
-          "ServiceEntry"
+          "Motorcycle"
         ],
         "parameters": [
           {
-            "name": "motorradId",
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Motorcycles"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Motorcycles"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Motorcycles"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Motorcycle"
+        ],
+        "parameters": [
+          {
+            "name": "id",
             "in": "path",
             "required": true,
             "schema": {
@@ -108,6 +131,16 @@
       }
     },
     "/api/ServiceEntry": {
+      "get": {
+        "tags": [
+          "ServiceEntry"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
       "post": {
         "tags": [
           "ServiceEntry"
@@ -137,11 +170,118 @@
           }
         }
       }
+    },
+    "/api/ServiceEntry/{id}": {
+      "get": {
+        "tags": [
+          "ServiceEntry"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "ServiceEntry"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServiceEntry"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServiceEntry"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ServiceEntry"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "ServiceEntry"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ServiceEntry/motorcycle/{motorcycleId}": {
+      "get": {
+        "tags": [
+          "ServiceEntry"
+        ],
+        "parameters": [
+          {
+            "name": "motorcycleId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
-      "Motorcycle": {
+      "Motorcycles": {
         "type": "object",
         "properties": {
           "id": {
@@ -171,13 +311,6 @@
           "price": {
             "type": "integer",
             "format": "int32"
-          },
-          "serviceEntries": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/ServiceEntry"
-            },
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -200,9 +333,6 @@
           "motorcycleId": {
             "type": "integer",
             "format": "int32"
-          },
-          "motorcycle": {
-            "$ref": "#/components/schemas/Motorcycle"
           }
         },
         "additionalProperties": false
