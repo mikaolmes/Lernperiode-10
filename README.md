@@ -30,10 +30,10 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
 
 Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
 
-- [ ] Wie repariere ich den Fehlercode (GET-Operationen) --> recherchieren wie ich die CRUD-Operationen richtig implementiere
+- [X] Wie repariere ich den Fehlercode (GET-Operationen) --> recherchieren wie ich die CRUD-Operationen richtig implementiere
 - [ ] Allgemeines Grundgerüst des Frontends bauen (Header, Footer, Aside...)
 - [ ] Welhe Funktionen soll es noch geben, weitere Features suchen die zur Webseite passen könnten --> Exploration
-- [ ] Gedanken über das Frontend machen, auf Papier skizieren (📵)
+- [X] Gedanken über das Frontend machen, auf Papier skizieren (📵)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
