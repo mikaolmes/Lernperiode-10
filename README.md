@@ -1,6 +1,6 @@
 # Lern-Periode 10
 
-25.4 bis 27.6
+25.4.2025 bis 27.6.2025
 
 ## Grob-Planung
 
