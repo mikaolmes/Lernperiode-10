@@ -55,7 +55,7 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 - [ ] Login.html Seite anfangen zu bauen
 
 ✍️ Heute habe ich angefangen meine Webseite zu bauen und habe es deshalb geschafft ein kleines Grundgerüst mit Farben aufzubauen. Leider habe ich es nicht geschafft die Funktionen zu implementieren. Also das ich Einträge hinzufügen kann. Dafür habe ich schon ein Grundgerüst für diesen Eintrag ich muss es nur noch mit meiner Datenbank verbinden. 
-Als ich den Code hochladen wollte, ist ein Fehler aufgetreten, anscheinend habe ich nichts zu commiten, ich werde es versuchen bis heute Abend (09.05.2025) noch zu machen.(50-100 Wörter)
+Als ich den Code hochladen wollte, ist ein Fehler aufgetreten, anscheinend habe ich nichts zu commiten, ich werde es versuchen bis heute Abend (09.05.2025) noch zu machen. (80 Wörter)
 
 ☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
