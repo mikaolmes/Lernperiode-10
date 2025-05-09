@@ -54,7 +54,7 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 - [ ] Login/Regristrierung implementieren
 - [ ] Login.html Seite anfangen zu bauen
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich angefangen meine Webseite zu bauen und habe es deshalb geschafft ein kleines Grundgerüst mit Farben aufzubauen. Leider habe ich es nicht geschafft die Funktionen zu implementieren. Also das ich Einträge hinzufügen kann. Dafür habe ich schon ein Grundgerüst für diesen Eintrag ich muss es nur noch mit meiner Datenbank verbinden. (50-100 Wörter)
 
 ☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
