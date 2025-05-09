@@ -54,16 +54,16 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 - [ ] Login/Regristrierung implementieren
 - [ ] Login.html Seite anfangen zu bauen
 
-✍️ Heute habe ich angefangen meine Webseite zu bauen, ich habe schon ein kleines Grundgerüst und die Farben ebenfalls. Doch leider konnte ich noch nicht die wichtigen CRUD Opertaionen dazu implementiernên. Wie gesagt habe ich schon das Grundgerüst, aber leider ist es noch nicht funktionstätig, dies wird also zu 100% eine Aufgabe für das nächste mal sein.(57 Wörter)
+✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 16.5
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Feature: Motorräder hinzufügen können
+- [ ] Feature: Service Entry hinzufügen können
+- [ ] Die Einträge sollen in der Datenbank gespeichert werden und beim starten werden alle die schon hinzugefügten Einträge geladen werden
+- [ ] Die Webseite hosten --> Github Pages?
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
