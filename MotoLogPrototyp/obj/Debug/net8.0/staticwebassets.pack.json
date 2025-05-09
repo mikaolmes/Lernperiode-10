@@ -1,8 +1,20 @@
 {
   "Files": [
     {
+      "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\garage.html",
+      "PackagePath": "staticwebassets\\garage.html"
+    },
+    {
+      "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\images\\motorcycles.png",
+      "PackagePath": "staticwebassets\\images\\motorcycles.png"
+    },
+    {
       "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\motorcycles.html",
+      "PackagePath": "staticwebassets\\motorcycles.html"
     },
     {
       "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",

@@ -82,7 +82,6 @@ C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\st
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MotoLogPrototyp.props
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MotoLogPrototyp.props
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogP.A17D6A90.Up2Date
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.dll
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\refint\MotoLogPrototyp.dll

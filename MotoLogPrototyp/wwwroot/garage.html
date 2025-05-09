@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Garage</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <h1>Your Garage</h1>
+      <a href="index.html" class="btn small">← Back</a>
+    </header>
+
+    <main class="garage-list">
+      <!-- Service Entry Button -->
+      <div class="service-entry-btn-container">
+        <button class="service-entry-btn" id="openServiceModal">Service Entry hinzufügen</button>
+      </div>
+
+      <div class="modal-overlay" id="serviceModal">
+        <div class="modal">
+          <form id="serviceForm">
+            <label>Letzter Service (Datum):<br /><input type="date" name="last_service" required /></label><br />
+            <label>Beschreibung:<br /><textarea name="description" rows="4" required></textarea></label><br />
+            <label>Motorrad:<br />
+              <select name="motorcycle" required>
+                <option value="">Bitte wählen...</option>
+                <option value="1">Kawasaki Z650</option>
+                <option value="2">Yamaha MT-09</option>
+                <option value="3">Harley-Davidson Iron 883</option>
+              </select>
+            </label><br />
+            <div class="modal-actions">
+              <button type="submit" class="btn">Hinzufügen</button>
+              <button type="button" class="btn cancel" id="closeServiceModal">Abbrechen</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </main>
+  </body>
+  <script src="script.js"></script>
+</html>

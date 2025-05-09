@@ -1,5 +1,41 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\garage.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MotoLogPrototyp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MotoLogPrototyp</BasePath>
+      <RelativePath>garage.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>praavbswhq</Fingerprint>
+      <Integrity>BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\garage.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\motorcycles.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MotoLogPrototyp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MotoLogPrototyp</BasePath>
+      <RelativePath>images/motorcycles.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dnas648sq9</Fingerprint>
+      <Integrity>6fotjAmyflkO/L0G5ijcAzfW2i9SEtoSr9s10rh+9VE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\motorcycles.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))">
       <SourceType>Package</SourceType>
       <SourceId>MotoLogPrototyp</SourceId>
@@ -12,11 +48,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3d37hbxhk2</Fingerprint>
-      <Integrity>xxkNUhr3afxlIEIsNrojbslWfcEGo0c3K67mKE19yWY=</Integrity>
+      <Fingerprint>56js6ogsv3</Fingerprint>
+      <Integrity>84kHbPes2r3fZwJ1RWAWY5XxMuvzhpVL5CfDaOsjKPg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\motorcycles.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MotoLogPrototyp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MotoLogPrototyp</BasePath>
+      <RelativePath>motorcycles.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vfgmq0jk4d</Fingerprint>
+      <Integrity>u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA+DOnr55oXQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\motorcycles.html'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))">
       <SourceType>Package</SourceType>
@@ -30,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bjw6jtbz3z</Fingerprint>
-      <Integrity>N+HnOR7ldtkNY2gBBMeGLn0T4+mFZFpV/JGGZeOBAdI=</Integrity>
+      <Fingerprint>e8rhkmhtp5</Fingerprint>
+      <Integrity>4l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</OriginalItemSpec>
@@ -48,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>07q5m36at8</Fingerprint>
-      <Integrity>3LVNcL3LvBgwYO4sN5U7BBjIJifbnAwhBqoAEw1dJjU=</Integrity>
+      <Fingerprint>y0kzd6wvzb</Fingerprint>
+      <Integrity>3upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</OriginalItemSpec>
