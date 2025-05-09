@@ -1,0 +1,176 @@
+[
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.MotorcycleController",
+    "Method": "GetAllMotorcycles",
+    "RelativePath": "api/Motorcycle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.MotorcycleController",
+    "Method": "PostMotorcycle",
+    "RelativePath": "api/Motorcycle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "motorcycle",
+        "Type": "MotoLogPrototyp.Models.Motorcycles",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.MotorcycleController",
+    "Method": "GetMotorcycle",
+    "RelativePath": "api/Motorcycle/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.MotorcycleController",
+    "Method": "PutMovie",
+    "RelativePath": "api/Motorcycle/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "motorcycles",
+        "Type": "MotoLogPrototyp.Models.Motorcycles",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.MotorcycleController",
+    "Method": "DeleteMovie",
+    "RelativePath": "api/Motorcycle/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.ServiceEntryController",
+    "Method": "GetAllServiceEntries",
+    "RelativePath": "api/ServiceEntry",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.ServiceEntryController",
+    "Method": "AddServiceEntry",
+    "RelativePath": "api/ServiceEntry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "serviceEntry",
+        "Type": "MotoLogPrototyp.Models.ServiceEntry",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.ServiceEntryController",
+    "Method": "GetServiceEntry",
+    "RelativePath": "api/ServiceEntry/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.ServiceEntryController",
+    "Method": "PutMovie",
+    "RelativePath": "api/ServiceEntry/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "serviceEntry",
+        "Type": "MotoLogPrototyp.Models.ServiceEntry",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.ServiceEntryController",
+    "Method": "DeleteMovie",
+    "RelativePath": "api/ServiceEntry/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MotoLogPrototyp.Controllers.ServiceEntryController",
+    "Method": "GetEntriesForMotorcycle",
+    "RelativePath": "api/ServiceEntry/motorcycle/{motorcycleId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "motorcycleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
