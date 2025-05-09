@@ -49,8 +49,8 @@ Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen rea
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] Allgemeines Grundgerüst der Webseite (Frontend) Aufbauen
-- [ ] Farben die ich für die Webseite benutzen möchte raussuchen und implementiern in einem passenden Design
+- [X] Allgemeines Grundgerüst der Webseite (Frontend) Aufbauen
+- [X] Farben die ich für die Webseite benutzen möchte raussuchen und implementiern in einem passenden Design
 - [ ] Login/Regristrierung implementieren
 - [ ] Login.html Seite anfangen zu bauen
 
