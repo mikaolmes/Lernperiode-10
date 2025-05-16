@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,10 +65,6 @@
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "garage.html",
@@ -78,8 +74,7 @@
               "RelativeToolTip": "MotoLogPrototyp\\wwwroot\\garage.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-09T11:41:12.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T11:41:12.693Z"
             },
             {
               "$type": "Document",
@@ -91,8 +86,7 @@
               "RelativeToolTip": "MotoLogPrototyp\\wwwroot\\styles.css",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-09T11:28:15.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T11:28:15.811Z"
             },
             {
               "$type": "Document",
@@ -104,8 +98,7 @@
               "RelativeToolTip": "MotoLogPrototyp\\wwwroot\\motorcycles.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-09T11:20:46.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T11:20:46.435Z"
             },
             {
               "$type": "Document",
@@ -115,7 +108,7 @@
               "RelativeDocumentMoniker": "MotoLogPrototyp\\wwwroot\\index.html",
               "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\index.html",
               "RelativeToolTip": "MotoLogPrototyp\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-09T11:14:40.614Z",
               "EditorCaption": ""
@@ -130,8 +123,7 @@
               "RelativeToolTip": "MotoLogPrototyp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T13:59:47.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T13:59:47.837Z"
             },
             {
               "$type": "Document",
@@ -180,6 +172,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T12:39:50.092Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
