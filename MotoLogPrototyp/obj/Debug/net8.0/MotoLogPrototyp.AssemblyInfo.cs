@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotoLogPrototyp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3026aacfdc687e4ac6e256f9044c38050384714")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7954d0f053195af4e184f998d12701278ed64350")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotoLogPrototyp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotoLogPrototyp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
