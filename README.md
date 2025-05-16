@@ -66,16 +66,16 @@ Als ich den Code hochladen wollte, ist ein Fehler aufgetreten, anscheinend habe 
 - [ ] Die Einträge sollen in der Datenbank gespeichert werden und beim starten werden alle die schon hinzugefügten Einträge geladen werden
 - [ ] Die Webseite hosten --> Github Pages?
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich als aller erstes geschaut wie ich den Code mit git bash hochlade, und dabei hatte ich einen riesen Problem, er wollte es nicht hochladen und es hat etwas länger gebraucht. Danach habe ich probiert die verwaltung der Motorräder und Service Entries. Leider habe ich es nicht ganz geschaft, aber es fehlt nicht mehr viel und dann sollte es funktionieren. Daraufhin habe ich mir schon ein paar gedanken gemacht wie ich am Schluss die Webseite hosten möchte. (80 Wörter)
 
 ☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 23.5
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Feature: Motorräder hinzufügen können
+- [ ] Feature: Service Entry hinzufügen können
+- [ ] Die Einträge sollen in der Datenbank gespeichert werden und beim starten werden alle die schon hinzugefügten Einträge geladen werden
+- [ ] Webseite probieren zu hosten
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
