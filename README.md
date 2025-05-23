@@ -72,9 +72,9 @@ Als ich den Code hochladen wollte, ist ein Fehler aufgetreten, anscheinend habe 
 
 ## 23.5
 
-- [ ] Feature: Motorräder hinzufügen können
+- [X] Feature: Motorräder hinzufügen können
 - [ ] Feature: Service Entry hinzufügen können
-- [ ] Die Einträge sollen in der Datenbank gespeichert werden und beim starten werden alle die schon hinzugefügten Einträge geladen werden
+- [X] Die Einträge sollen in der Datenbank gespeichert werden und beim starten werden alle die schon hinzugefügten Einträge geladen werden
 - [ ] Webseite probieren zu hosten
 
 ✍️ Heute habe ich... (50-100 Wörter)
