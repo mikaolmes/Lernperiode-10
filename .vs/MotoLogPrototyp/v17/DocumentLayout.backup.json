@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\wwwroot\\garage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\wwwroot\\garage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|solutionrelative:motologprototyp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A81CB8E-09BA-4256-B3E5-1D9959D93C35}|MotoLogPrototyp\\MotoLogPrototyp.csproj|c:\\dokumente\\bbb\\lernatelier\\motologprototyp\\motologprototyp\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,16 +65,21 @@
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "garage.html",
               "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\garage.html",
               "RelativeDocumentMoniker": "MotoLogPrototyp\\wwwroot\\garage.html",
               "ToolTip": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\garage.html",
               "RelativeToolTip": "MotoLogPrototyp\\wwwroot\\garage.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-09T11:41:12.693Z"
+              "WhenOpened": "2025-05-09T11:41:12.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "MotoLogPrototyp\\wwwroot\\index.html",
@@ -110,8 +115,7 @@
               "RelativeToolTip": "MotoLogPrototyp\\wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-09T11:14:40.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T11:14:40.614Z"
             },
             {
               "$type": "Document",
@@ -172,10 +176,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T12:39:50.092Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

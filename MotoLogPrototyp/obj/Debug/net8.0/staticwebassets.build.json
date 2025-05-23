@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S4FHRCmBuZ3x0c2JDIgYG6hLJzKqCRB98lUc4e0Zrzk=",
+  "Hash": "ErO7YhpJmQQ1cgfrCcpDrnq6LVXCDGUm1FQw/lupVjQ=",
   "Source": "MotoLogPrototyp",
   "BasePath": "_content/MotoLogPrototyp",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "praavbswhq",
-      "Integrity": "BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI=",
+      "Fingerprint": "0z8z3t4fhe",
+      "Integrity": "1HCKuVpLTKCQuI9pC7n8BglxtM3NV1ByI6QJroeJwyg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\garage.html"
@@ -94,11 +94,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vfgmq0jk4d",
-      "Integrity": "u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA+DOnr55oXQ=",
+      "Fingerprint": "zx7dei94kz",
+      "Integrity": "ibDfjnOh443boEtQ1q8coDzhbIt8Yb2YnHgG4htfvzM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\motorcycles.html"
+    },
+    {
+      "Identity": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\motorcycles.js",
+      "SourceId": "MotoLogPrototyp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\",
+      "BasePath": "_content/MotoLogPrototyp",
+      "RelativePath": "motorcycles#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q4ue64r6f9",
+      "Integrity": "9umBkf0l2ln4z98VC2INKKXnX/OCb1kWV032EcwC2bI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\motorcycles.js"
     },
     {
       "Identity": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",
@@ -115,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "e8rhkmhtp5",
-      "Integrity": "4l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8=",
+      "Fingerprint": "ti0bwnpalh",
+      "Integrity": "mzxPvFrmh+ul0CM8gIs/Wq2NwZ++IcGKFeB9rU7HwxY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\script.js"
@@ -136,14 +157,59 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y0kzd6wvzb",
-      "Integrity": "3upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs=",
+      "Fingerprint": "ixre6uouru",
+      "Integrity": "Gn3kPwJlkfbolqMCP3hlpeYmHu7bZ4bkYHFRAm1Hb70=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\styles.css"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "garage.0z8z3t4fhe.html",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\garage.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1HCKuVpLTKCQuI9pC7n8BglxtM3NV1ByI6QJroeJwyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 19:01:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0z8z3t4fhe"
+        },
+        {
+          "Name": "label",
+          "Value": "garage.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1HCKuVpLTKCQuI9pC7n8BglxtM3NV1ByI6QJroeJwyg="
+        }
+      ]
+    },
     {
       "Route": "garage.html",
       "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\garage.html",
@@ -155,7 +221,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1703"
+          "Value": "1957"
         },
         {
           "Name": "Content-Type",
@@ -163,11 +229,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI=\""
+          "Value": "\"1HCKuVpLTKCQuI9pC7n8BglxtM3NV1ByI6QJroeJwyg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 13:17:43 GMT"
+          "Value": "Fri, 16 May 2025 19:01:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -177,52 +243,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI="
-        }
-      ]
-    },
-    {
-      "Route": "garage.praavbswhq.html",
-      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\garage.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1703"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 13:17:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "praavbswhq"
-        },
-        {
-          "Name": "label",
-          "Value": "garage.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI="
+          "Value": "sha256-1HCKuVpLTKCQuI9pC7n8BglxtM3NV1ByI6QJroeJwyg="
         }
       ]
     },
@@ -249,7 +270,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 11:49:17 GMT"
+          "Value": "Fri, 16 May 2025 11:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -294,7 +315,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 11:49:17 GMT"
+          "Value": "Fri, 16 May 2025 11:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -331,7 +352,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 12:39:31 GMT"
+          "Value": "Fri, 16 May 2025 11:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -376,7 +397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 12:39:31 GMT"
+          "Value": "Fri, 16 May 2025 11:23:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -401,7 +422,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2118"
+          "Value": "2729"
         },
         {
           "Name": "Content-Type",
@@ -409,11 +430,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA+DOnr55oXQ=\""
+          "Value": "\"ibDfjnOh443boEtQ1q8coDzhbIt8Yb2YnHgG4htfvzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 12:39:43 GMT"
+          "Value": "Fri, 23 May 2025 15:12:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -423,12 +444,94 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA+DOnr55oXQ="
+          "Value": "sha256-ibDfjnOh443boEtQ1q8coDzhbIt8Yb2YnHgG4htfvzM="
         }
       ]
     },
     {
-      "Route": "motorcycles.vfgmq0jk4d.html",
+      "Route": "motorcycles.js",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\motorcycles.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9umBkf0l2ln4z98VC2INKKXnX/OCb1kWV032EcwC2bI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 15:11:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9umBkf0l2ln4z98VC2INKKXnX/OCb1kWV032EcwC2bI="
+        }
+      ]
+    },
+    {
+      "Route": "motorcycles.q4ue64r6f9.js",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\motorcycles.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9umBkf0l2ln4z98VC2INKKXnX/OCb1kWV032EcwC2bI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 15:11:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q4ue64r6f9"
+        },
+        {
+          "Name": "label",
+          "Value": "motorcycles.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9umBkf0l2ln4z98VC2INKKXnX/OCb1kWV032EcwC2bI="
+        }
+      ]
+    },
+    {
+      "Route": "motorcycles.zx7dei94kz.html",
       "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\motorcycles.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -438,7 +541,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2118"
+          "Value": "2729"
         },
         {
           "Name": "Content-Type",
@@ -446,11 +549,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA+DOnr55oXQ=\""
+          "Value": "\"ibDfjnOh443boEtQ1q8coDzhbIt8Yb2YnHgG4htfvzM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 12:39:43 GMT"
+          "Value": "Fri, 23 May 2025 15:12:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -460,7 +563,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vfgmq0jk4d"
+          "Value": "zx7dei94kz"
         },
         {
           "Name": "label",
@@ -468,52 +571,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA+DOnr55oXQ="
-        }
-      ]
-    },
-    {
-      "Route": "script.e8rhkmhtp5.js",
-      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1526"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 13:10:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "e8rhkmhtp5"
-        },
-        {
-          "Name": "label",
-          "Value": "script.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8="
+          "Value": "sha256-ibDfjnOh443boEtQ1q8coDzhbIt8Yb2YnHgG4htfvzM="
         }
       ]
     },
@@ -528,7 +586,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1526"
+          "Value": "5044"
         },
         {
           "Name": "Content-Type",
@@ -536,11 +594,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8=\""
+          "Value": "\"mzxPvFrmh+ul0CM8gIs/Wq2NwZ++IcGKFeB9rU7HwxY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 13:10:45 GMT"
+          "Value": "Fri, 16 May 2025 19:08:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -550,7 +608,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8="
+          "Value": "sha256-mzxPvFrmh+ul0CM8gIs/Wq2NwZ++IcGKFeB9rU7HwxY="
+        }
+      ]
+    },
+    {
+      "Route": "script.ti0bwnpalh.js",
+      "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mzxPvFrmh+ul0CM8gIs/Wq2NwZ++IcGKFeB9rU7HwxY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 19:08:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ti0bwnpalh"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mzxPvFrmh+ul0CM8gIs/Wq2NwZ++IcGKFeB9rU7HwxY="
         }
       ]
     },
@@ -565,7 +668,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5170"
+          "Value": "9859"
         },
         {
           "Name": "Content-Type",
@@ -573,11 +676,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs=\""
+          "Value": "\"Gn3kPwJlkfbolqMCP3hlpeYmHu7bZ4bkYHFRAm1Hb70=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 13:16:18 GMT"
+          "Value": "Fri, 23 May 2025 15:07:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -587,12 +690,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs="
+          "Value": "sha256-Gn3kPwJlkfbolqMCP3hlpeYmHu7bZ4bkYHFRAm1Hb70="
         }
       ]
     },
     {
-      "Route": "styles.y0kzd6wvzb.css",
+      "Route": "styles.ixre6uouru.css",
       "AssetFile": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -602,7 +705,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5170"
+          "Value": "9859"
         },
         {
           "Name": "Content-Type",
@@ -610,11 +713,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs=\""
+          "Value": "\"Gn3kPwJlkfbolqMCP3hlpeYmHu7bZ4bkYHFRAm1Hb70=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 09 May 2025 13:16:18 GMT"
+          "Value": "Fri, 23 May 2025 15:07:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -624,7 +727,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y0kzd6wvzb"
+          "Value": "ixre6uouru"
         },
         {
           "Name": "label",
@@ -632,7 +735,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs="
+          "Value": "sha256-Gn3kPwJlkfbolqMCP3hlpeYmHu7bZ4bkYHFRAm1Hb70="
         }
       ]
     }
