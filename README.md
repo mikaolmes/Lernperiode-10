@@ -77,11 +77,16 @@ Als ich den Code hochladen wollte, ist ein Fehler aufgetreten, anscheinend habe 
 - [X] Die Einträge sollen in der Datenbank gespeichert werden und beim starten werden alle die schon hinzugefügten Einträge geladen werden
 - [ ] Webseite probieren zu hosten
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich es endlich geschafft die Funktion Motorräder hinzuzufügen zu können. Dazu habe ich auch schon die Bearbetîtungs Funktion und Löschen Funktion hinzugefügt, leider ist das Design noch nicht perfekt, aber das ist erstmal zweitrangig. Das nächste mal sollte ich es ziemlich schnell schaffen die ServiceEinträge zu implementieren. (50 Wörter)
 
 ☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 6.6
+
+- [ ] Feature: Service Entries hinzufügen können
+- [ ] Feature: Servie Entries Bearbeiten können
+- [ ] Feature: Servie Entries Löschen können
+- [ ] Webseite Probieren zu hosten
 
 Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Allerdings gibt es sicher noch Teile, welche "schöner" werden können: Layout, Code, Architektur... beschreiben Sie kurz den Stand Ihres Projekts, und leiten Sie daraus 6 solche "kosmetischen" AP für den 6.6 und den 13.6 ab.
 
