@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\garage.html"
     },
     {
+      "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\garage.js",
+      "PackagePath": "staticwebassets\\garage.js"
+    },
+    {
       "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\images\\motorcycles.png",
       "PackagePath": "staticwebassets\\images\\motorcycles.png"
     },
@@ -15,6 +19,10 @@
     {
       "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\motorcycles.html",
       "PackagePath": "staticwebassets\\motorcycles.html"
+    },
+    {
+      "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\motorcycles.js",
+      "PackagePath": "staticwebassets\\motorcycles.js"
     },
     {
       "Id": "C:\\Dokumente\\BBB\\Lernatelier\\MotoLogPrototyp\\MotoLogPrototyp\\wwwroot\\script.js",

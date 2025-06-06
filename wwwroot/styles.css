@@ -13,7 +13,7 @@ body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, sans-serif;
     background-color: var(--bg);
-    color: var(--text);
+    color: var(--text) !important; /* Ensured text visibility */
     background-image: url('motorcycles.png');
 }
 
@@ -60,25 +60,35 @@ main.garage-list {
     margin: 0 auto;
 }
 
+/* General Card Styles (improved) */
 .card {
-    display: flex;
+    display: flex; /* Kept for initial card display, can be overridden by specific cards */
     gap: 1.2rem;
     align-items: center;
-    background-color: var(--card-bg);
-    padding: 1.5rem;
+    background: white; /* Overrides var(--card-bg) for consistency */
+    border: 1px solid #ddd;
     border-radius: var(--radius);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: var(--transition);
+    margin-bottom: 20px; /* Added for spacing */
+    padding: 1.5rem; /* Set base padding */
 }
 
 .card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
 }
 
 .card h2 {
     margin: 0;
     color: var(--primary);
+}
+
+.card h3 { /* Specific for h3 in cards */
+    margin-top: 0;
+    color: #333;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
 }
 
 .card .icon {
@@ -140,15 +150,23 @@ main.garage-list {
     margin-inline: auto;
 }
 
+/* Card Container (for grids) */
 .card-container {
     display: grid;
-    gap: 1.5rem;
-    max-width: 960px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    max-width: 960px; /* Adjusted to 960px from 1200px for consistency with main.garage-list */
     margin-inline: auto;
-    padding: 0 2rem 2rem;
+    padding: 20px 2rem 20px 2rem; /* Adjusted padding */
 }
 
-.bike-grid {
+@media (max-width: 768px) {
+    .card-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+.bike-grid { /* This appears similar to card-container, consider if both are needed or can be merged */
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 1.5rem;
@@ -190,11 +208,11 @@ main.garage-list {
     color: var(--text);
 }
 
-/* Style für Service-Eintrag Modal */
+/* Modal Overlay */
 .modal-overlay {
     display: none;
     position: fixed;
-    inset: 0;
+    inset: 0; /* Shorthand for top, right, bottom, left */
     background-color: rgba(0, 0, 0, 0.5);
     justify-content: center;
     align-items: center;
@@ -205,113 +223,216 @@ main.garage-list {
     display: flex;
 }
 
+/* Modal Style */
 .modal {
     background-color: var(--card-bg);
     padding: 2rem;
     border-radius: var(--radius);
-    max-width: 400px;
-    width: 100%;
+    max-width: 500px; /* Increased max-width */
+    width: 90%; /* Responsive width */
+    max-height: 80vh; /* Added for scrollable content */
+    overflow-y: auto; /* Added for scrollable content */
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
 }
 
 .modal h2 {
     margin-top: 0;
-    color: var(--primary);
+    color: var(--primary); /* Kept primary color for modal h2 */
 }
 
-.modal form label {
+/* Form Style */
+.modal form label,
+form label { /* Applied to all form labels for consistency */
     display: block;
-    margin-bottom: 1rem;
+    margin-bottom: 1rem; /* Adjusted margin */
     color: var(--text);
 }
 
 .modal form input,
 .modal form textarea,
-.modal form select {
+.modal form select,
+form input,
+form textarea,
+form select { /* Applied to all form inputs for consistency */
     width: 100%;
-    padding: 0.5rem;
+    padding: 0.5rem; /* Adjusted padding */
     border: 1px solid var(--light);
-    border-radius: var(--radius);
+    border-radius: var(--radius); /* Consistent radius */
+    margin-top: 0.5rem; /* Added margin-top for spacing */
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
 }
 
 .modal-actions {
     display: flex;
     justify-content: flex-end;
-    gap: 0.5rem;
+    gap: 0.5rem; /* Adjusted gap */
+    margin-top: 1.5rem; /* Adjusted margin-top */
 }
 
+/* Cancel Button Style */
 .btn.cancel {
     background-color: var(--light);
     color: var(--text);
 }
 
-
 /* Service Entry Button */
 .service-entry-btn {
-  background-color: var(--primary);
-  color: white;
-  padding: 0.6rem 1.2rem;
-  border: none;
-  border-radius: var(--radius);
-  cursor: pointer;
-  transition: var(--transition);
-  display: inline-block;
-  margin-top: 2rem;
+    background-color: var(--primary);
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border: none;
+    border-radius: var(--radius);
+    cursor: pointer;
+    transition: var(--transition);
+    display: inline-block;
+    margin-top: 2rem;
 }
 
 .service-entry-btn:hover {
-  background-color: #a61e1e;
+    background-color: #a61e1e;
 }
 
-/* Modal Overlay */
-.modal-overlay {
-  display: none;
-  position: fixed;
-  inset: 0;
-  background-color: rgba(0, 0, 0, 0.5);
-  justify-content: center;
-  align-items: center;
-  z-index: 1000;
+/* Notification Styles */
+.notification {
+    position: fixed;
+    top: 20px; /* Moved to top for better visibility with modal */
+    right: 20px;
+    padding: 15px 25px; /* Adjusted padding */
+    border-radius: var(--radius); /* Consistent radius */
+    color: white !important; /* Ensured white color */
+    font-weight: bold;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    transform: translateX(100%); /* Changed from translateY to translateX for slide-in effect */
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+    z-index: 1000; /* Ensured it's above other content */
 }
 
-.modal-overlay.show {
-  display: flex;
+.notification.show {
+    transform: translateX(0);
+    opacity: 1;
 }
 
-/* Modal Style */
-.modal {
-  background-color: var(--card-bg);
-  padding: 2rem;
-  border-radius: var(--radius);
-  max-width: 400px;
-  width: 100%;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+.notification.success {
+    background-color: #28a745; /* Updated green */
 }
 
-/* Form Style */
-.modal form label {
-  display: block;
-  margin-bottom: 1rem;
-  color: var(--text);
+.notification.error {
+    background-color: #dc3545; /* Updated red */
 }
 
-.modal form input,
-.modal form textarea,
-.modal form select {
-  width: 100%;
-  padding: 0.5rem;
-  border: 1px solid var(--light);
-  border-radius: var(--radius);
+.notification.info { /* Added info style */
+    background-color: #007bff;
 }
 
-.modal-actions {
-  display: flex;
-  justify-content: flex-end;
-  gap: 0.5rem;
+/* No-items/No-motorcycles Messages */
+.no-items,
+.no-motorcycles {
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+    color: var(--text) !important; /* Ensured text visibility */
 }
 
-/* Cancel Button Style */
-.btn.cancel {
-  background-color: var(--light);
-  color: var(--text);
+.no-items.error,
+.error-message,
+.error { /* Consolidated error message styles */
+    color: #f44336;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #f44336;
+    border-radius: 5px;
+    background-color: #ffebee;
+    margin: 20px 0;
+}
+
+/* Specific Styles for Motorcycle Management */
+.motorcycle-card { /* New specific card style for motorcycles */
+    color: var(--text) !important;
+    background-color: var(--card-bg) !important;
+    padding: 1.5rem; /* Consistent padding */
+    border-radius: var(--radius);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: var(--transition);
+    display: block; /* Ensure it behaves like a block element */
+}
+
+.motorcycle-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+.motorcycle-card h3,
+.motorcycle-card .detail-item {
+    color: var(--text) !important;
+}
+
+/* Fallback for ultimate text visibility */
+.motorcycle-card * {
+    color: #000 !important;
+}
+
+/* Card Header for Motorcycles */
+.card-header {
+    background-color: var(--primary);
+    color: white;
+    padding: 1rem;
+    margin: -1.5rem -1.5rem 1.5rem -1.5rem;
+    border-radius: var(--radius) var(--radius) 0 0;
+}
+
+.card-header h3 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+/* Improved Card-Layout for Motorcycles (card-container .card) */
+.card-container .card {
+    padding: 1.5rem;
+}
+
+.card-container .card .card-body {
+    padding: 0;
+}
+
+/* Motorcycle Details Grid */
+.bike-details {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.8rem;
+    margin-bottom: 1.5rem;
+}
+
+.bike-details p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.bike-details strong {
+    color: var(--secondary);
+}
+
+/* Loading State */
+.loading {
+    text-align: center;
+    color: var(--secondary);
+    padding: 3rem;
+    grid-column: 1 / -1;
+    font-size: 1.1rem;
+}
+
+/* Responsive Design for Details */
+@media (max-width: 768px) {
+    .bike-details {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
+    }
+
+    .card-header {
+        margin: -1rem -1rem 1rem -1rem;
+    }
+
+    .card-container .card {
+        padding: 1rem;
+    }
 }

@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="de">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -8,27 +8,25 @@
   </head>
   <body>
     <header class="page-header">
-      <h1>Your Garage</h1>
-      <a href="index.html" class="btn small">← Back</a>
+      <h1>Meine Garage</h1>
+      <div class="header-actions">
+        <a href="motorcycles.html" class="btn small">Motorräder</a>
+        <a href="index.html" class="btn small">← Zurück</a>
+      </div>
     </header>
 
-    <main class="garage-list">
-      <!-- Service Entry Button -->
-      <div class="service-entry-btn-container">
-        <button class="service-entry-btn" id="openServiceModal">Service Entry hinzufügen</button>
-      </div>
-
+    <main class="service-list">
+      <!-- Modal zum Hinzufügen eines Service-Eintrags -->
       <div class="modal-overlay" id="serviceModal">
         <div class="modal">
+          <h2>Neuen Service-Eintrag hinzufügen</h2>
           <form id="serviceForm">
-            <label>Letzter Service (Datum):<br /><input type="date" name="last_service" required /></label><br />
+            <label>Datum:<br /><input type="date" name="date" required /></label><br />
             <label>Beschreibung:<br /><textarea name="description" rows="4" required></textarea></label><br />
             <label>Motorrad:<br />
               <select name="motorcycle" required>
                 <option value="">Bitte wählen...</option>
-                <option value="1">Kawasaki Z650</option>
-                <option value="2">Yamaha MT-09</option>
-                <option value="3">Harley-Davidson Iron 883</option>
+                <!-- Motorräder werden dynamisch geladen -->
               </select>
             </label><br />
             <div class="modal-actions">
@@ -38,7 +36,18 @@
           </form>
         </div>
       </div>
+
+      <!-- Aktionsleiste -->
+      <div class="actions">
+        <button class="btn" id="openServiceModal">+ Service-Eintrag hinzufügen</button>
+      </div>
+
+      <!-- Container für die Service-Einträge -->
+      <div id="serviceCards" class="card-container">
+        <!-- Hier werden die Service-Einträge dynamisch eingefügt -->
+      </div>
     </main>
+
+    <script src="garage.js"></script>
   </body>
-  <script src="script.js"></script>
 </html>

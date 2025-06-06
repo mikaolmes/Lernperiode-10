@@ -3,74 +3,98 @@
     <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/garage.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\garage.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1703"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:17:43 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kK3Rx9XJJxzcjbQ0N9UAKJYdGgKCqUanrdTDEh1ryso="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1957"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022kK3Rx9XJJxzcjbQ0N9UAKJYdGgKCqUanrdTDEh1ryso=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 12:54:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/garage.praavbswhq.html">
+    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/garage.iu4u1yq39e.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\garage.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"iu4u1yq39e"},{"Name":"integrity","Value":"sha256-Cj1ceSPyHIdWbIbwVg\u002B\u002BmGWcCywsFmkCazitFxf2upo="},{"Name":"label","Value":"_content/MotoLogPrototyp/garage.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13527"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Cj1ceSPyHIdWbIbwVg\u002B\u002BmGWcCywsFmkCazitFxf2upo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 14:27:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/garage.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\garage.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Cj1ceSPyHIdWbIbwVg\u002B\u002BmGWcCywsFmkCazitFxf2upo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13527"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Cj1ceSPyHIdWbIbwVg\u002B\u002BmGWcCywsFmkCazitFxf2upo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 14:27:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/garage.oqz60m87j4.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\garage.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"praavbswhq"},{"Name":"integrity","Value":"sha256-BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI="},{"Name":"label","Value":"_content/MotoLogPrototyp/garage.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1703"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022BaA9sVd0xldz5FKGPioaj2fhNgE138tQnbePfSH6/jI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:17:43 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oqz60m87j4"},{"Name":"integrity","Value":"sha256-kK3Rx9XJJxzcjbQ0N9UAKJYdGgKCqUanrdTDEh1ryso="},{"Name":"label","Value":"_content/MotoLogPrototyp/garage.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1957"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022kK3Rx9XJJxzcjbQ0N9UAKJYdGgKCqUanrdTDEh1ryso=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 12:54:51 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/images/motorcycles.dnas648sq9.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\motorcycles.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dnas648sq9"},{"Name":"integrity","Value":"sha256-6fotjAmyflkO/L0G5ijcAzfW2i9SEtoSr9s10rh\u002B9VE="},{"Name":"label","Value":"_content/MotoLogPrototyp/images/motorcycles.png"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3051839"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226fotjAmyflkO/L0G5ijcAzfW2i9SEtoSr9s10rh\u002B9VE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 11:49:17 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3051839"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226fotjAmyflkO/L0G5ijcAzfW2i9SEtoSr9s10rh\u002B9VE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:23:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/images/motorcycles.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\motorcycles.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6fotjAmyflkO/L0G5ijcAzfW2i9SEtoSr9s10rh\u002B9VE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3051839"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226fotjAmyflkO/L0G5ijcAzfW2i9SEtoSr9s10rh\u002B9VE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 11:49:17 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3051839"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226fotjAmyflkO/L0G5ijcAzfW2i9SEtoSr9s10rh\u002B9VE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:23:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/index.56js6ogsv3.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"56js6ogsv3"},{"Name":"integrity","Value":"sha256-84kHbPes2r3fZwJ1RWAWY5XxMuvzhpVL5CfDaOsjKPg="},{"Name":"label","Value":"_content/MotoLogPrototyp/index.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"618"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002284kHbPes2r3fZwJ1RWAWY5XxMuvzhpVL5CfDaOsjKPg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 12:39:31 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"618"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002284kHbPes2r3fZwJ1RWAWY5XxMuvzhpVL5CfDaOsjKPg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:23:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/index.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-84kHbPes2r3fZwJ1RWAWY5XxMuvzhpVL5CfDaOsjKPg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"618"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002284kHbPes2r3fZwJ1RWAWY5XxMuvzhpVL5CfDaOsjKPg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 12:39:31 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"618"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u002284kHbPes2r3fZwJ1RWAWY5XxMuvzhpVL5CfDaOsjKPg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 16 May 2025 11:23:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/motorcycles.bucyngqex7.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\motorcycles.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bucyngqex7"},{"Name":"integrity","Value":"sha256-fbPjNBP\u002Bspr4sGBUZ8pn3HbXn6qqGemGmzymwbYjdoU="},{"Name":"label","Value":"_content/MotoLogPrototyp/motorcycles.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10307"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fbPjNBP\u002Bspr4sGBUZ8pn3HbXn6qqGemGmzymwbYjdoU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 12:34:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/motorcycles.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\motorcycles.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA\u002BDOnr55oXQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2118"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA\u002BDOnr55oXQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 12:39:43 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WwchbFjJJdQ1uljzNs\u002Bi8PfMO6TMeccxFUD1lXzFcsE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2683"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WwchbFjJJdQ1uljzNs\u002Bi8PfMO6TMeccxFUD1lXzFcsE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 13:19:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/motorcycles.vfgmq0jk4d.html">
+    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/motorcycles.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\motorcycles.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fbPjNBP\u002Bspr4sGBUZ8pn3HbXn6qqGemGmzymwbYjdoU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10307"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fbPjNBP\u002Bspr4sGBUZ8pn3HbXn6qqGemGmzymwbYjdoU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 12:34:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/motorcycles.zyjl7i46xr.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\motorcycles.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vfgmq0jk4d"},{"Name":"integrity","Value":"sha256-u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA\u002BDOnr55oXQ="},{"Name":"label","Value":"_content/MotoLogPrototyp/motorcycles.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2118"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022u4Z9cELoVGIB4WWsuo0Hi3DNWHHv1/IZA\u002BDOnr55oXQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 12:39:43 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/script.e8rhkmhtp5.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e8rhkmhtp5"},{"Name":"integrity","Value":"sha256-4l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8="},{"Name":"label","Value":"_content/MotoLogPrototyp/script.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1526"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:10:45 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zyjl7i46xr"},{"Name":"integrity","Value":"sha256-WwchbFjJJdQ1uljzNs\u002Bi8PfMO6TMeccxFUD1lXzFcsE="},{"Name":"label","Value":"_content/MotoLogPrototyp/motorcycles.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2683"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WwchbFjJJdQ1uljzNs\u002Bi8PfMO6TMeccxFUD1lXzFcsE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Jun 2025 13:19:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/script.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1526"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224l/e0qk7e4fjLZr6mE6Py50tSQDmjHp1vir1DCW6qU8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:10:45 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mzxPvFrmh\u002Bul0CM8gIs/Wq2NwZ\u002B\u002BIcGKFeB9rU7HwxY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5044"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mzxPvFrmh\u002Bul0CM8gIs/Wq2NwZ\u002B\u002BIcGKFeB9rU7HwxY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 15:23:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/script.ti0bwnpalh.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\script.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ti0bwnpalh"},{"Name":"integrity","Value":"sha256-mzxPvFrmh\u002Bul0CM8gIs/Wq2NwZ\u002B\u002BIcGKFeB9rU7HwxY="},{"Name":"label","Value":"_content/MotoLogPrototyp/script.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5044"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mzxPvFrmh\u002Bul0CM8gIs/Wq2NwZ\u002B\u002BIcGKFeB9rU7HwxY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 15:23:57 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5170"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:16:18 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gn3kPwJlkfbolqMCP3hlpeYmHu7bZ4bkYHFRAm1Hb70="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9859"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Gn3kPwJlkfbolqMCP3hlpeYmHu7bZ4bkYHFRAm1Hb70=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 15:23:57 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/styles.y0kzd6wvzb.css">
+    <StaticWebAssetEndpoint Include="_content/MotoLogPrototyp/styles.ixre6uouru.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y0kzd6wvzb"},{"Name":"integrity","Value":"sha256-3upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs="},{"Name":"label","Value":"_content/MotoLogPrototyp/styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5170"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223upOhXALaR2chAOZSI6ueHdqN35yb5ArORPGDDJtlTs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 09 May 2025 13:16:18 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ixre6uouru"},{"Name":"integrity","Value":"sha256-Gn3kPwJlkfbolqMCP3hlpeYmHu7bZ4bkYHFRAm1Hb70="},{"Name":"label","Value":"_content/MotoLogPrototyp/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9859"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Gn3kPwJlkfbolqMCP3hlpeYmHu7bZ4bkYHFRAm1Hb70=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 15:23:57 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

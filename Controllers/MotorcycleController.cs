@@ -66,7 +66,7 @@ namespace MotoLogPrototyp.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult> PutMovie(int id, [FromBody] Motorcycles motorcycles)
+        public async Task<ActionResult> PutMotorcycle(int id, [FromBody] Motorcycles motorcycles)
         {
             if (id != motorcycles.Id)
             {
@@ -95,7 +95,7 @@ namespace MotoLogPrototyp.Controllers
 
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult> DeleteMovie(int id)
+        public async Task<ActionResult> DeleteMotorcycle(int id)
         {
             var movie = await _context.Motorcycles.FindAsync(id);
             if (movie == null)

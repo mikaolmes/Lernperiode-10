@@ -1,5 +1,6 @@
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\bin\Debug\net8.0\appsettings.Development.json
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\bin\Debug\net8.0\appsettings.json
+C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\bin\Debug\net8.0\MotoLogPrototyp.staticwebassets.runtime.json
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\bin\Debug\net8.0\MotoLogPrototyp.staticwebassets.endpoints.json
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\bin\Debug\net8.0\MotoLogPrototyp.exe
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\bin\Debug\net8.0\MotoLogPrototyp.deps.json
@@ -72,6 +73,7 @@ C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\Mo
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.csproj.CoreCompileInputs.cache
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.MvcApplicationPartsAssemblyInfo.cs
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.MvcApplicationPartsAssemblyInfo.cache
+C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.sourcelink.json
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\scopedcss\bundle\MotoLogPrototyp.styles.css
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\staticwebassets.development.json
@@ -88,5 +90,3 @@ C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\re
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.pdb
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.genruntimeconfig.cache
 C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\ref\MotoLogPrototyp.dll
-C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\obj\Debug\net8.0\MotoLogPrototyp.sourcelink.json
-C:\Dokumente\BBB\Lernatelier\MotoLogPrototyp\MotoLogPrototyp\bin\Debug\net8.0\MotoLogPrototyp.staticwebassets.runtime.json
