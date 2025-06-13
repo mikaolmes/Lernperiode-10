@@ -4,8 +4,12 @@
    Download the project and open it using **Visual Studio Code**.
 
 2. **Start the Application**  
-   Start the file <launchsettings.json>. After a few seconds, the Web-App should automatically open in your browser.
+   type <cd motologprototyp> in Terminal, after that you type <dotnet build> and if this was succsesful you can type the following <dotnet run>
 
 3. It should look something like this
-   ![image](https://github.com/user-attachments/assets/ae421922-d634-4a0e-9722-4a83a8a20849)
+   If step 2 was successful you can open up the website with this url: http://localhost:<port>/MotoLogPrototyp/wwwroot/
+
+   After everything you should be able to see this on your monitor:
+   ![image](https://github.com/user-attachments/assets/548c820e-ed2d-4822-a794-28fe28987deb)
+
 
