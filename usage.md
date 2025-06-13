@@ -8,7 +8,7 @@
 
 3. It should look something like this
    If step 2 was successful you can open up the website with this url: http://localhost:<strong>port</strong>/MotoLogPrototyp/wwwroot/
-   --> replace port with your personal port
+   <br> --> replace port with your personal port
 
    After everything you should be able to see this on your monitor:
    ![image](https://github.com/user-attachments/assets/548c820e-ed2d-4822-a794-28fe28987deb)
