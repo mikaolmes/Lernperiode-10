@@ -108,10 +108,10 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 
 ## 13.6
 
-- [ ] Besseres Layout ausdenken, sodass alle Einträge übersichtlich eingetragen worden sind. (📵 --> Auf Papier)
-- [ ] Farben einfügen um die Webseite einladener zu machen
+- [X] Besseres Layout ausdenken, sodass alle Einträge übersichtlich eingetragen worden sind. (📵 --> Auf Papier)
+- [X] Farben einfügen um die Webseite einladener zu machen
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mir Gedanken gemacht was oder besser gesagt wie ich meine Webseite gestalten möchte. Ich habe mich dazu entschieden meine Einträge wie bei Youtube darstellen zu lassen. Dazu habe ich noch verschiedene Farben ausprobiert welche ich verwenden könnte, ich schwanke noch zwischen blau, weiss oder eher rötlich. (50-100 Wörter)
 
 ☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
@@ -119,7 +119,10 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 
 Was fehlt Ihrem fertigen Projekt noch, um es auszuliefern? Reicht die Zeit für ein *nice-to-have feature*?
 
-- [ ] ...
+- [ ] Layout umsetzen, dass ich auf Papier gemacht hatte
+- [ ] Hintergrundbild einfügen, dass passt, zum beispiel ein Background mit Motorrad (--> Motorcycle) und Garage (--> Service Entries)
+- [ ] Animationen machen, evtl das Motorrad bauen lassen.
+- [ ] Login Funktion implementieren
 
 Bereiten Sie in den verbleibenden 2 AP Ihre Präsentation vor
 
