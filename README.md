@@ -119,10 +119,12 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 
 Was fehlt Ihrem fertigen Projekt noch, um es auszuliefern? Reicht die Zeit für ein *nice-to-have feature*?
 
-- [ ] Layout umsetzen, dass ich auf Papier gemacht hatte
+- [X] Layout umsetzen, dass ich auf Papier gemacht hatte
 - [ ] Hintergrundbild einfügen, dass passt, zum beispiel ein Background mit Motorrad (--> Motorcycle) und Garage (--> Service Entries)
 - [ ] Animationen machen, evtl das Motorrad bauen lassen.
 - [ ] Login Funktion implementieren
+
+✍️ Heute habe ich mein Layout fertig umgesetzt, jetzt ist es so wie ich es haben wollte, zudem habe ich noch ein wenuig die Farben angepasst. Ich habe auch versucht mit einem Python script ein Motorrad zu bauen, damit ich dies auf der webseite zu benutzen kann, hat aber nicht so funktioniert wie ich es wollte.
 
 Bereiten Sie in den verbleibenden 2 AP Ihre Präsentation vor
 
