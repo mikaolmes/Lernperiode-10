@@ -4,7 +4,7 @@
    Download the project and open it using **Visual Studio Code**.
 
 2. **Start the Application**  
-   type <cd motologprototyp> in Terminal, after that you type <dotnet build> and if this was succsesful you can type the following <dotnet run>
+   type 'cd motologprototyp' in Terminal, after that you type 'dotnet build' and if this was succsesful you can type the following 'dotnet run'
 
 3. It should look something like this
    If step 2 was successful you can open up the website with this url: http://localhost:<strong>port</strong>/MotoLogPrototyp/wwwroot/
