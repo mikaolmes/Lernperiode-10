@@ -128,10 +128,10 @@ Was fehlt Ihrem fertigen Projekt noch, um es auszuliefern? Reicht die Zeit für 
 
 Bereiten Sie in den verbleibenden 2 AP Ihre Präsentation vor
 
-- [ ] Materialien der Präsentation vorbereiten
-- [ ] Präsentation üben
+- [X] Materialien der Präsentation vorbereiten
+- [X] Präsentation üben
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich ... (50-100 Wörter)
 
 ☝️  Vergessen Sie nicht, die Unterlagen für Ihre Präsentation auf github hochzuladen.
 
